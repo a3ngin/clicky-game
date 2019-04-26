@@ -5,47 +5,47 @@
     },
     {
         "id": 2,
-        "image": "public/images/alexkarev.jpg"
+        "image": "./images/alexkarev.jpg"
     },
     {
         "id": 3,
-        "image": "public/images/cristina.jpg"
+        "image": "./images/cristina.jpg"
     },
     {
         "id": 4,
-        "image": "public/images/derek.jpg"
+        "image": "./images/derek.jpg"
 
     },
     {
         "id": 5,
-        "image": "public/images/george.jpg"
+        "image": "./images/george.jpg"
     },
     {
         "id": 6,
-        "image": "public/images/izzie-stevens.jpg"
+        "image": "./images/izzie-stevens.jpg"
     },
     {
         "id": 7,
-        "image": "public/images/lexie.jpg"
+        "image": "./images/lexie.jpg"
     },
     {
         "id": 8,
-        "image": "public/images/mark.jpg"
+        "image": "./images/mark.jpg"
     },
     {
         "id": 9,
-        "image": "public/images/meredith.jpg"
+        "image": "./images/meredith.jpg"
     },
     {
         "id": 10,
-        "image": "public/images/miranda.jpg"
+        "image": "./images/miranda.jpg"
     },
     {
         "id": 11,
-        "image": "public/images/owen.jpg"
+        "image": "./images/owen.jpg"
     },
     {
         "id": 12,
-        "image": "public/images/richard.jpg"
+        "image": "./images/richard.jpg"
     }
 ]
