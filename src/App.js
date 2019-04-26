@@ -13,7 +13,7 @@ class App extends Component {
       <Wrapper>
         <Title>Greys Anatomy</Title>
         {Cards.map(card => (
-          <imageCard
+          <ImageCard
             id={card.id}
             key={card.id}
             image={card.image}
